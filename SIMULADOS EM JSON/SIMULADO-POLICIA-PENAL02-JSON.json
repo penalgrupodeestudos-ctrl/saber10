@@ -1,0 +1,842 @@
+[
+  {
+    "numero": 1,
+    "disciplina": "Língua Portuguesa",
+    "questao": "A idade cronológica de uma pessoa nem sempre coincide com a sua idade biológica. Sintaticamente, é correto afirmar que, nesta frase:",
+    "opcoes": {
+      "A": "'biológica' é o termo que complementa o objeto direto, considerado adjunto adnominal.",
+      "B": "'a idade cronológica de uma pessoa' refere-se ao sujeito simples.",
+      "C": "'coincide' comporta-se como um verbo intransitivo, não apresentando complementos.",
+      "D": "o núcleo do sujeito é o termo 'pessoa', pois trata-se do vocábulo mais importante.",
+      "E": "o predicado verbo-nominal é composto pela expressão 'coincide com a sua idade biológica'."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A expressão 'a idade cronológica de uma pessoa' funciona como sujeito simples da oração, sendo aquilo que não coincide com a idade biológica."
+  },
+  {
+    "numero": 2,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Descobrimos 'que um grupo de diversas proteínas liberadas pelas células zumbis funciona como biomarcadores da senescência' e prevê resultados relacionados à saúde. A expressão destacada trata-se de uma oração:",
+    "opcoes": {
+      "A": "Subordinada substantiva",
+      "B": "Oração principal",
+      "C": "Adjetiva restritiva",
+      "D": "Coordenada assindética",
+      "E": "Coordenada sindética"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "A oração 'que um grupo de diversas proteínas...' é subordinada substantiva, funcionando como objeto direto de 'descobrimos'."
+  },
+  {
+    "numero": 3,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Com a idade, elas passam por um processo de senescência, um estado em que não 'crescem' e não se dividem, no entanto resistem em morrer e 'liberam' uma combinação prejudicial de sinais biológicos nocivos. Os verbos destacados, nesta frase, comportam-se, respectivamente, como verbos:",
+    "opcoes": {
+      "A": "Transitivo direto − bitransitivo",
+      "B": "Intransitivo − transitivo direto",
+      "C": "Transitivo direto − transitivo direto",
+      "D": "Bitransitivo - intransitivo",
+      "E": "Transitivo indireto − bitransitivo"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "'Crescem' é intransitivo (não requer complemento). 'Liberam' é transitivo direto (requer complemento: uma combinação prejudicial)."
+  },
+  {
+    "numero": 4,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Existe erro de concordância verbal no seguinte período:",
+    "opcoes": {
+      "A": "Havia muitas mulheres na festa.",
+      "B": "Existia provas contra eles.",
+      "C": "Trata-se de doenças contagiosas.",
+      "D": "Vendem-se apartamentos na cidade.",
+      "E": "Procura-se cão desaparecido."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Erro em B: 'Existia provas' deveria ser 'Existiam provas' pois 'existir' concorda com o sujeito 'provas' (plural)."
+  },
+  {
+    "numero": 5,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Assinale a única alternativa que está de acordo com as normas de regência da língua culta:",
+    "opcoes": {
+      "A": "Notifiquei-lhe de que não pretendia substituí-lo na liderança do batalhão, porque apesar de ter sempre servido a polícia, jamais aspirei a tal posição.",
+      "B": "Notifiquei-lhe de que não pretendia substituir-lhe na liderança do batalhão, porque apesar de ter sempre servido à polícia, jamais aspirei a tal posição.",
+      "C": "Notifiquei-o de que não pretendia substituir-lhe na liderança do batalhão, porque apesar de ter sempre servido à polícia, jamais aspirei tal posição.",
+      "D": "Notifiquei-o de que não pretendia substituí-lo na liderança do batalhão, porque apesar de ter sempre servido a polícia, jamais aspirei tal posição.",
+      "E": "Notifiquei-o de que não pretendia substituí-lo na liderança do batalhão, porque apesar de ter sempre servido à polícia, jamais aspirei a tal posição."
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "Forma correta: Notifiquei-o (transitivo direto); substituí-lo (transitivo direto); servido à polícia (regência); aspirei a tal posição (transitivo indireto)."
+  },
+  {
+    "numero": 6,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Leia a frase do filósofo Francis Bacon: \"Viajar, para os jovens, faz parte da educação; para os adultos, faz parte da experiência.\" Sobre sua significação ou estruturação, assinale a afirmativa correta.",
+    "opcoes": {
+      "A": "As palavras 'jovens' e 'adultos' são antônimas, assim como 'educação' e 'experiência'.",
+      "B": "O ponto-e-vírgula empregado na frase pode ser adequadamente substituído pela conjunção 'enquanto'.",
+      "C": "As duas ocorrências da expressão 'faz parte' mostram significados diferentes na frase.",
+      "D": "A expressão 'fazer parte' equivale semanticamente ao verbo 'partilhar'.",
+      "E": "A frase mostra a superioridade dos jovens sobre os adultos, no que se refere à finalidade de viajar."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O ponto-e-vírgula marca contraste entre duas ideias, que pode ser adequadamente substituído por 'enquanto' (estabelecendo oposição)."
+  },
+  {
+    "numero": 7,
+    "disciplina": "Língua Portuguesa",
+    "questao": "A metonímia é uma figura de linguagem utilizada quando uma palavra ou expressão é substituída por outra, devido à existência de uma relação lógica entre elas. Identifique em qual alternativa ocorre a Metonímia, empregando o efeito pela causa:",
+    "opcoes": {
+      "A": "O bonde passa cheio de pernas.",
+      "B": "Os cristais tiniam na bandeja de prata do castelo.",
+      "C": "Com muito suor, o operário construiu a casa.",
+      "D": "Ofereceram-lhe bolo e ele comeu o tabuleiro todo.",
+      "E": "A juventude é corajosa e nem sempre consequente."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "'Suor' substitui o trabalho (o efeito do trabalho é o suor). Metonímia efeito pela causa."
+  },
+  {
+    "numero": 8,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Foi redigida em conformidade com a norma padrão de ortografia a palavra destacada em:",
+    "opcoes": {
+      "A": "Os senadores apresentaram projetos que prevêem normas rígidas de segurança para casas de shows.",
+      "B": "Existem diversas espécies de atos administrativos, que são agrupados de acordo com suas finalidades.",
+      "C": "A universidade não pára nos meses sem atividades didáticas, pois existem ainda as atividades administrativas.",
+      "D": "A Assembléia Legislativa realizou um evento para escutar familiares das vítimas da catástrofe ambiental.",
+      "E": "O servidor teve a oportunidade de manifestar suas idéias durante a reunião com a chefe de gabinete."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "B está correto. A, C, D e E têm erros: preveem (crase), pára (não leva acento), Assembleia (sem acento), ideias (sem acento)."
+  },
+  {
+    "numero": 9,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Assinale a alternativa em que a frase está em conformidade com a norma-padrão de emprego de pronomes.",
+    "opcoes": {
+      "A": "A internet pode aproximar pessoas, isto é, reconectar-las.",
+      "B": "Todos podem se expressar na internet, isto é, usá-la para se expressar.",
+      "C": "Cite as vantagens da internet, isto é, elenque-lhes.",
+      "D": "A internet é usada para espalhar mentiras, isto é, para difundi-as.",
+      "E": "Acho que já está bom de desvantagens, isto é, de mencioná-lheis."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "B está correto: 'usá-la' (pronome adequado). A: 'reconectá-las'. C: 'elenque-as'. D: 'difundi-las'. E: 'mencioná-las'."
+  },
+  {
+    "numero": 10,
+    "disciplina": "Língua Portuguesa",
+    "questao": "A única frase em que se verifica um par de parônimos é:",
+    "opcoes": {
+      "A": "Eu gosto do gosto dessa fruta exótica.",
+      "B": "Caiu uma manga na manga da minha camisa.",
+      "C": "Devemos prosseguir, ainda que tristes ou felizes.",
+      "D": "O país vive uma intensa onda de imigração e de emigração.",
+      "E": "A mãe do meu amigo vivia de cozer legumes e de coser roupas."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "Parônimos são palavras semelhantes na forma mas diferentes no significado. 'Imigração' e 'emigração' são parônimos (entram vs. saem de um país)."
+  },
+  {
+    "numero": 11,
+    "disciplina": "Raciocínio Lógico-Matemático",
+    "questao": "Em uma caixa há duas bolas brancas, duas bolas pretas e duas bolas vermelhas, todas do mesmo peso e tamanho. São retiradas, aleatoriamente, duas bolas. A probabilidade de que essas bolas sejam de cores diferentes é de",
+    "opcoes": {
+      "A": "60%",
+      "B": "72%",
+      "C": "75%",
+      "D": "80%",
+      "E": "90%"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "Total de combinações: C(6,2)=15. Combinações mesma cor: C(2,2)+C(2,2)+C(2,2)=3. Cores diferentes: 15-3=12. Probabilidade: 12/15=80%."
+  },
+  {
+    "numero": 12,
+    "disciplina": "Raciocínio Lógico-Matemático",
+    "questao": "Beatriz tem dois anéis, um de safira e outro de esmeralda, e deseja colocá-los em seus dedos. No entanto, ela decidiu que não usará os polegares e que não colocará os dois anéis no mesmo dedo. Sabendo que cada anel deve ser colocado em um dos oito dedos restantes, a quantidade de formas distintas que Beatriz poderá distribuir os dois anéis é de",
+    "opcoes": {
+      "A": "28",
+      "B": "40",
+      "C": "56",
+      "D": "64",
+      "E": "72"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Primeiro anel: 8 posições. Segundo anel: 7 posições (não pode ficar no mesmo dedo). Total: 8 × 7 = 56 formas."
+  },
+  {
+    "numero": 13,
+    "disciplina": "Raciocínio Lógico-Matemático",
+    "questao": "O rendimento de determinado tipo de tinta é de 8,5 metros quadrados para cada 1,5 litro de tinta. Qual a quantidade de litros necessários para pintar 102 metros quadrados, mantendo sempre esse rendimento?",
+    "opcoes": {
+      "A": "21",
+      "B": "20",
+      "C": "18",
+      "D": "16",
+      "E": "15"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Proporção: 8,5 m² / 1,5 L = 102 m² / X L. X = (102 × 1,5) / 8,5 = 153 / 8,5 = 18 litros."
+  },
+  {
+    "numero": 14,
+    "disciplina": "Raciocínio Lógico-Matemático",
+    "questao": "Em uma fábrica, 14 trabalhadores produzem 210 peças em 5 horas. Se o número de trabalhadores for aumentado para 18, e o tempo disponível for de 3 horas, quantas peças serão produzidas?",
+    "opcoes": {
+      "A": "162 peças",
+      "B": "270 peças",
+      "C": "180 peças",
+      "D": "216 peças",
+      "E": "54 peças"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "Taxa: 210 peças / (14 × 5) = 3 peças por trabalhador-hora. Novo resultado: 18 × 3 × 3 = 162 peças."
+  },
+  {
+    "numero": 15,
+    "disciplina": "Raciocínio Lógico-Matemático",
+    "questao": "Um aquário tem a forma de um paralelepípedo retângulo, com as seguintes dimensões: 1,5 metros de comprimento, 0,8 metros de largura e 0,6 metros de altura. Qual é o volume do aquário em litros?",
+    "opcoes": {
+      "A": "720",
+      "B": "7200",
+      "C": "640",
+      "D": "6400",
+      "E": "64000"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "Volume: 1,5 × 0,8 × 0,6 = 0,72 m³ = 720 litros (1 m³ = 1000 litros)."
+  },
+  {
+    "numero": 16,
+    "disciplina": "Raciocínio Lógico-Matemático",
+    "questao": "Fabiano emprestou R$ 1.000,00 ao seu primo, que devolveu o valor após 3 meses, acrescido de juros simples de 1% ao mês. Em seguida, Fabiano aplicou o montante total recebido em uma conta de investimento que rende juros simples de 2% ao mês por um período de 9 meses. Assim, qual foi o montante final acumulado por Fabiano ao término dessa aplicação?",
+    "opcoes": {
+      "A": "R$ 1.185,40",
+      "B": "R$ 1.230,00",
+      "C": "R$ 1.278,00",
+      "D": "R$ 1.260,00",
+      "E": "R$ 1.215,40"
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "Primeiro empréstimo: 1000 + (1000 × 0,01 × 3) = 1030. Investimento: 1030 + (1030 × 0,02 × 9) = 1030 + 185,40 = 1215,40."
+  },
+  {
+    "numero": 17,
+    "disciplina": "Raciocínio Lógico-Matemático",
+    "questao": "Em um concurso público, o número de vagas para nível superior é cinco vezes maior do número de vagas para nível médio. Se o total de vagas oferecidas é 1500, quantas vagas são para nível médio?",
+    "opcoes": {
+      "A": "1000",
+      "B": "500",
+      "C": "250",
+      "D": "1250",
+      "E": "300"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Nível médio = x; Nível superior = 5x. x + 5x = 1500. 6x = 1500. x = 250."
+  },
+  {
+    "numero": 18,
+    "disciplina": "Raciocínio Lógico-Matemático",
+    "questao": "Em um posto de saúde, onde trabalhavam 7 médicos, eram atendidos, em média, 84 pacientes por dia. Depois de alguns meses, esse posto passou a atender, em média, 116 pacientes por dia e mais alguns médicos foram contratados. Dessa forma, cada médico passou a atender, em média, 7,25 pacientes por dia. O número de médicos contratados foi",
+    "opcoes": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "12",
+      "E": "15"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Antes: 7 médicos, 12 pacientes por médico. Depois: (7+x) × 7,25 = 116. 7+x = 16. x = 9 médicos contratados."
+  },
+  {
+    "numero": 19,
+    "disciplina": "Raciocínio Lógico-Matemático",
+    "questao": "De acordo com as premissas: (1) Estuda ou trabalha. (2) Dorme cedo e estuda. (3) Bebe café ou não trabalha. (4) Não bebe café. O argumento válido é que o candidato:",
+    "opcoes": {
+      "A": "Trabalha e bebe café",
+      "B": "Estuda e não dorme cedo",
+      "C": "Não dorme cedo e trabalha",
+      "D": "Bebe café e não estuda",
+      "E": "Não trabalha e dorme cedo"
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "De (4): não bebe café. De (3): como não bebe café, não trabalha. De (1): como não trabalha, estuda. De (2): dorme cedo. Logo: não trabalha e dorme cedo."
+  },
+  {
+    "numero": 20,
+    "disciplina": "Raciocínio Lógico-Matemático",
+    "questao": "Alguns animais são frágeis. Toda criança é frágil. Amanda é criança e Amadeu é frágil. Somente com base nessas proposições, podemos concluir que:",
+    "opcoes": {
+      "A": "Amanda é frágil e Amadeu é criança.",
+      "B": "Amanda é frágil e Amadeu é animal.",
+      "C": "Amanda é também animal e Amadeu é criança.",
+      "D": "Amanda é frágil e Amadeu pode não ser criança e nem animal.",
+      "E": "Amanda não é frágil e Amadeu é criança."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "Amanda é criança, logo é frágil (válido). Amadeu é frágil, mas não sabemos se é criança ou animal (pode ser outra coisa frágil)."
+  },
+  {
+    "numero": 21,
+    "disciplina": "Informática",
+    "questao": "O sistema operacional Windows 10 possui um recurso que permite que um teclado seja exibido na tela para ser utilizado por meio do mouse. Esse recurso é chamado de Teclado",
+    "opcoes": {
+      "A": "Digital",
+      "B": "Eletrônico",
+      "C": "Online",
+      "D": "Virtual",
+      "E": "Simulador"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O teclado exibido na tela do Windows 10 é chamado de Teclado Virtual (On-Screen Keyboard)."
+  },
+  {
+    "numero": 22,
+    "disciplina": "Informática",
+    "questao": "Ao navegar pela internet, a estrutura adotada para a URL é:",
+    "opcoes": {
+      "A": "domínio://protocolo/caminho",
+      "B": "protocolo://domínio/caminho",
+      "C": "domínio://caminho/protocolo",
+      "D": "protocolo://caminho/domínio",
+      "E": "caminho://protocolo/domínio"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A estrutura correta de URL é: protocolo (http://) + domínio + caminho. Ex: https://www.google.com/search"
+  },
+  {
+    "numero": 23,
+    "disciplina": "Informática",
+    "questao": "Ao navegar na internet, qual a opção recomendada para que, ao clicar num link, a página original permaneça aberta quando a nova página for exibida?",
+    "opcoes": {
+      "A": "Abrir",
+      "B": "Abrir em uma nova janela",
+      "C": "Salvar destino como",
+      "D": "Deletar",
+      "E": "Exibir lado a lado"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A opção 'Abrir em uma nova janela' mantém a página original aberta enquanto abre o novo link em outra janela."
+  },
+  {
+    "numero": 24,
+    "disciplina": "Informática",
+    "questao": "Considerando o aplicativo Microsoft Word, um usuário digitou a seguinte palavra: Concurso (com sublinhado). Qual dos recursos de efeitos listados está empregado nessa palavra?",
+    "opcoes": {
+      "A": "Selecionado",
+      "B": "Riscado",
+      "C": "Grifado",
+      "D": "Tachado",
+      "E": "Subscrito"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A palavra apresenta um traço através do texto, o que é chamado de efeito 'tachado' (strikethrough)."
+  },
+  {
+    "numero": 25,
+    "disciplina": "Informática",
+    "questao": "João trabalha como Policial Penal e precisa calcular o total de novos presos do mês. Ele registrou os dados da célula A2 até A31 em uma planilha do Microsoft Excel. Para encontrar o valor total qual fórmula João deve usar?",
+    "opcoes": {
+      "A": "=A2+A31",
+      "B": "=SOMA(A2:A31)",
+      "C": "=MULT(A2:A31)",
+      "D": "=A2*A31",
+      "E": "=TOTAL(A2:A31)"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A função SOMA é usada para somar valores em um intervalo. Sintaxe: =SOMA(A2:A31)."
+  },
+  {
+    "numero": 26,
+    "disciplina": "Atualidades",
+    "questao": "Em 2025, o fato de o Brasil assumir a presidência rotativa do bloco dos Brics abriu uma série de oportunidades para o país, entre as quais:",
+    "opcoes": {
+      "A": "a prerrogativa de assinar tratados bilaterais entre os Brics e os países do G7, sem necessidade de consenso entre os membros",
+      "B": "a possibilidade de implementar o Banco dos Brics e promover a estabilidade econômico-financeira do grupo",
+      "C": "a oportunidade de articular uma posição conjunta dos Brics sobre as ações climáticas, especialmente diante dos preparativos para a COP 30 em Belém do Pará",
+      "D": "a capacidade de incrementar a cooperação militar com a OTAN, fortalecendo a presença do Sul Global",
+      "E": "a competência de estabelecer o uso de moedas locais nas transações comerciais entre os países dos Brics, reduzindo o impacto da política monetária dos EUA"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A presidência da Brasil permite articular posições conjuntas do Brics sobre clima, especialmente preparando a COP 30 em Belém."
+  },
+  {
+    "numero": 27,
+    "disciplina": "Atualidades",
+    "questao": "O Vaticano anunciou no dia 8 de maio de 2025 que Robert Francis Prevost, 69 anos, é o novo papa, adotando o nome de Leão XIV. O pontífice nasceu em qual país?",
+    "opcoes": {
+      "A": "Peru",
+      "B": "Estados Unidos",
+      "C": "México",
+      "D": "Canadá",
+      "E": "Argentina"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Robert Francis Prevost nasceu nos Estados Unidos e foi eleito Papa em 2025, adotando o nome Leão XIV."
+  },
+  {
+    "numero": 28,
+    "disciplina": "Atualidades",
+    "questao": "A recente escalada do conflito envolvendo Israel, amplamente noticiada, teve início, principalmente, devido a qual acontecimento?",
+    "opcoes": {
+      "A": "Reconciliação diplomática completa entre Israel e Palestina",
+      "B": "Retirada total das tropas israelenses da Cisjordânia",
+      "C": "Transferência da capital de Israel para Tel Aviv",
+      "D": "Ataque surpresa realizado pelo Hamas contra território israelense",
+      "E": "Reconhecimento internacional de Jerusalém como capital palestina"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O conflito recente teve início principalmente após o ataque surpresa do Hamas contra Israel em outubro de 2023."
+  },
+  {
+    "numero": 29,
+    "disciplina": "Atualidades",
+    "questao": "A culinária do Espírito Santo possui pratos típicos reconhecidos nacionalmente. Qual prato é símbolo da gastronomia capixaba e deve ser preparado em panela de barro?",
+    "opcoes": {
+      "A": "Bobó de camarão",
+      "B": "Vatapá",
+      "C": "Moqueca capixaba",
+      "D": "Feijoada",
+      "E": "Feijão-tropeiro"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A Moqueca capixaba é o símbolo da gastronomia do Espírito Santo e tradicionalmente é preparada em panela de barro."
+  },
+  {
+    "numero": 30,
+    "disciplina": "Atualidades",
+    "questao": "De acordo com os conhecimentos sobre o estado do Espírito Santo, qual foi a primeira capital do estado?",
+    "opcoes": {
+      "A": "Vitória",
+      "B": "Vila Velha",
+      "C": "Cariacica",
+      "D": "Serra",
+      "E": "Linhares"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Vila Velha foi a primeira capital do Espírito Santo, sendo transferida para Vitória posteriormente."
+  },
+  {
+    "numero": 31,
+    "disciplina": "Ética no Serviço Público",
+    "questao": "Registre V, para verdadeiras, e F, para falsas, a respeito de sigilo e confidencialidade: (  ) O sigilo profissional abrange informações obtidas durante o exercício da função. (  ) Documentos classificados como sigilosos requerem tratamento específico. (  ) A quebra do sigilo das comunicações pode ocorrer por solicitação de familiares quando houver interesse legítimo comprovado.",
+    "opcoes": {
+      "A": "V − V − F",
+      "B": "F − V − F",
+      "C": "F − F − V",
+      "D": "V − V − V",
+      "E": "V − F − F"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "V: sigilo profissional se estende após término; V: documentos sigilosos requerem tratamento; F: quebra de sigilo requer autorização legal, não apenas de familiares."
+  },
+  {
+    "numero": 32,
+    "disciplina": "Ética no Serviço Público",
+    "questao": "Em sua postura profissional, ao agir com honestidade, integridade e respeito, seguindo as normas e os valores da organização, é correto afirmar que o servidor se utiliza precipuamente de",
+    "opcoes": {
+      "A": "empatia",
+      "B": "ética",
+      "C": "comunicação",
+      "D": "eficácia",
+      "E": "eficiência"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A ética envolve honestidade, integridade, respeito às normas e valores. É o fundamento dessa postura profissional."
+  },
+  {
+    "numero": 33,
+    "disciplina": "Ética no Serviço Público",
+    "questao": "De acordo com a Instrução Normativa 004/2004 da Polícia Penal do ES, a informação submetida temporariamente à restrição de acesso público em razão de sua imprescindibilidade para a segurança da sociedade e do Estado é o conceito de:",
+    "opcoes": {
+      "A": "informação de interesse",
+      "B": "informação dativa",
+      "C": "informação privilegiada",
+      "D": "informação conflitante",
+      "E": "informação sigilosa"
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "Informação sigilosa é aquela restrita ao acesso público por razões de segurança de Estado ou sociedade."
+  },
+  {
+    "numero": 34,
+    "disciplina": "Ética no Serviço Público",
+    "questao": "Com base nas informações sobre os princípios da Administração Pública, assinale a alternativa que apresenta os cinco princípios:",
+    "opcoes": {
+      "A": "Legalidade, Impessoalidade, Fiscalização, Eficiência e Justiça",
+      "B": "Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência",
+      "C": "Legalidade, Publicidade, Regulamentação, Impessoalidade e Fiscalização",
+      "D": "Transparência, Moralidade, Legalidade, Democracia e Impessoalidade",
+      "E": "Regulação, Justiça, Eficiência, Moralidade e Equidade"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Os cinco princípios constitucionais da Administração Pública são: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência."
+  },
+  {
+    "numero": 35,
+    "disciplina": "Ética no Serviço Público",
+    "questao": "A respeito do regime jurídico da improbidade administrativa, considerada a Lei nº 8.429/1992, com redação dada pela Lei nº 14.230/2021, assinale a alternativa correta.",
+    "opcoes": {
+      "A": "A caracterização de ato de improbidade que atenta contra os princípios exige o reconhecimento de dano ao erário",
+      "B": "As sanções por ato de improbidade podem ser executadas independentemente do trânsito em julgado",
+      "C": "A caracterização de ato de improbidade por ato culposo ocorre nos casos em que é verificado prejuízo ao erário",
+      "D": "No caso de lesão ao patrimônio público, o dever de reparação deve levar em consideração ressarcimentos ocorridos nas instâncias",
+      "E": "A aplicação das disposições exige a condição de agente público de todos os envolvidos"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "Lei 14.230/2021 exige que a reparação leve em consideração ressarcimentos já realizados em outras instâncias."
+  },
+  {
+    "numero": 36,
+    "disciplina": "Conhecimentos Específicos - Direitos Humanos",
+    "questao": "De acordo com a Declaração Universal dos Direitos Humanos, todas as pessoas têm direito a um padrão de vida adequado. Com base nessa informação, assinale a alternativa correta.",
+    "opcoes": {
+      "A": "O direito à moradia, à alimentação e à saúde é um dever exclusivo do indivíduo",
+      "B": "O direito a um padrão de vida adequado inclui segurança social e proteção contra o desemprego",
+      "C": "A proteção da maternidade e da infância não é considerada um direito humano essencial",
+      "D": "O Estado não tem responsabilidade na garantia de condições dignas de trabalho",
+      "E": "O direito ao trabalho só se aplica a cidadãos do país onde residem"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A DUDH reconhece que um padrão de vida adequado inclui segurança social e proteção contra desemprego."
+  },
+  {
+    "numero": 37,
+    "disciplina": "Conhecimentos Específicos - Constituição Federal",
+    "questao": "A Emenda Constitucional nº 45/2004 trouxe importante alteração sobre direitos humanos. A partir dessa emenda, a Constituição passou a prever que serão equivalentes às emendas constitucionais, os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional",
+    "opcoes": {
+      "A": "em dois turnos, por um terço dos votos dos respectivos membros",
+      "B": "em dois turnos, por três quintos dos votos dos respectivos membros",
+      "C": "em um turno, por um terço dos votos dos respectivos membros",
+      "D": "em um turno, por três quintos dos votos dos respectivos membros",
+      "E": "pela maioria simples membros presentes à sessão"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "EC 45/2004 exige aprovação em dois turnos, por três quintos dos votos em cada Casa para equivalência com emenda constitucional."
+  },
+  {
+    "numero": 38,
+    "disciplina": "Conhecimentos Específicos - Direitos Humanos",
+    "questao": "No que diz respeito às revistas aos reclusos e inspeção de celas previstas nas Regras Mínimas das Nações Unidas, é CORRETO afirmar que:",
+    "opcoes": {
+      "A": "As revistas podem ser utilizadas para intimidar ou invadir desnecessariamente a privacidade",
+      "B": "Os reclusos devem manter todos os documentos de processos judiciais sem restrição",
+      "C": "Não é necessário registrar revistas e inspeções de partes íntimas do corpo",
+      "D": "As leis sobre revistas devem estar em conformidade com as obrigações do Direito Internacional e normas internacionais",
+      "E": "As revistas íntimas devem ser conduzidas por pessoal do sexo oposto ao recluso"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "As Regras Mínimas exigem que leis sobre revistas respeitem conformidade com Direito Internacional e normas internacionais."
+  },
+  {
+    "numero": 39,
+    "disciplina": "Conhecimentos Específicos - Constituição Federal",
+    "questao": "Considerando o que prevê a Constituição Federal acerca dos princípios fundamentais, é correto afirmar que um dos fundamentos da República Federativa do Brasil é",
+    "opcoes": {
+      "A": "a defesa da paz",
+      "B": "a dignidade da pessoa humana",
+      "C": "a garantia do desenvolvimento nacional",
+      "D": "o repúdio ao terrorismo e ao racismo",
+      "E": "a autodeterminação dos povos"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A Constituição Federal estabelece em seu artigo 1º que a dignidade da pessoa humana é um dos fundamentos da República."
+  },
+  {
+    "numero": 40,
+    "disciplina": "Conhecimentos Específicos - Constituição Federal",
+    "questao": "Com base no artigo 5º da Constituição de 1988, julgue: I. A prática do racismo constitui crime inafiançável e imprescritível. II. São invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas. III. É plena a liberdade de associação para fins lícitos, inclusive a de caráter paramilitar.",
+    "opcoes": {
+      "A": "I, II e III",
+      "B": "I, apenas",
+      "C": "II, apenas",
+      "D": "I e II, apenas",
+      "E": "III, apenas"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "I e II corretos. III é incorreta: associações paramilitares são expressamente vedadas pela CF/88."
+  },
+  {
+    "numero": 41,
+    "disciplina": "Conhecimentos Específicos - Constituição Federal",
+    "questao": "Acerca das Entidades Componentes da Federação Brasileira é correto afirmar, exceto:",
+    "opcoes": {
+      "A": "Estados são divisões territoriais que possuem autonomia político-administrativa",
+      "B": "Compete à União declarar a guerra e celebrar a paz",
+      "C": "É permitido à União recusar fé aos documentos públicos",
+      "D": "Compete aos Municípios legislar sobre assuntos de interesse local",
+      "E": "O Distrito Federal reger-se-á por lei orgânica"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Exceção: Não é permitido recusar fé aos documentos públicos. Todos devem reconhecer validade de documentos públicos."
+  },
+  {
+    "numero": 42,
+    "disciplina": "Conhecimentos Específicos - Direito Constitucional",
+    "questao": "Com base nas funções essenciais à justiça, é correto afirmar que",
+    "opcoes": {
+      "A": "a Defensoria Pública é responsável pela defesa da ordem jurídica e interesses indisponíveis",
+      "B": "a instituição de advocacia pública não é extensível aos municípios",
+      "C": "a autonomia funcional não se estende à Defensoria Pública",
+      "D": "os Procuradores-Gerais de Justiça possuem mandato fixo, podendo ser destituídos pelo Chefe do Executivo",
+      "E": "a Defensoria Pública e Advocacia Pública podem exercer advocacia fora de atribuições"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "A Defensoria Pública é função essencial à justiça, responsável pela defesa da ordem jurídica e dos interesses sociais indisponíveis."
+  },
+  {
+    "numero": 43,
+    "disciplina": "Conhecimentos Específicos - Constituição Federal",
+    "questao": "Consoante o disposto no §1º do artigo 144 da CRFB/88, o órgão que se destina a exercer, com exclusividade, as funções de polícia judiciária da União é a:",
+    "opcoes": {
+      "A": "polícia federal",
+      "B": "polícia civil",
+      "C": "polícia militar",
+      "D": "polícia rodoviária federal",
+      "E": "polícia ferroviária federal"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "A Polícia Federal é o órgão que exerce, com exclusividade, as funções de polícia judiciária da União."
+  },
+  {
+    "numero": 44,
+    "disciplina": "Conhecimentos Específicos - Direito Administrativo",
+    "questao": "Durante uma inspeção interna, o chefe de departamento identificou descumprimento de normas e aplicou uma advertência formal. Considerando os poderes da Administração Pública, qual poder foi exercido?",
+    "opcoes": {
+      "A": "Poder vinculado",
+      "B": "Poder regulamentar",
+      "C": "Poder disciplinar",
+      "D": "Poder hierárquico",
+      "E": "Poder especial"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A aplicação de advertência é exercício do poder disciplinar, que permite punições administrativas por violação de normas."
+  },
+  {
+    "numero": 45,
+    "disciplina": "Conhecimentos Específicos - Direito Administrativo",
+    "questao": "São considerados atributos dos atos administrativos:",
+    "opcoes": {
+      "A": "A presunção de legitimidade e veracidade, a imperatividade, a autoexecutoriedade e a tipicidade",
+      "B": "A presunção de legalidade, a discricionariedade, a motivação e a publicidade",
+      "C": "A tipicidade, a finalidade, a competência e o objeto",
+      "D": "A imperatividade, a publicidade, a motivação e a eficiência",
+      "E": "A legalidade, a moralidade, a publicidade e a eficiência"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "Os atributos dos atos administrativos incluem presunção de legitimidade, imperatividade, autoexecutoriedade e tipicidade."
+  },
+  {
+    "numero": 46,
+    "disciplina": "Conhecimentos Específicos - Direito Administrativo",
+    "questao": "Acerca dos atos administrativos, assinale a alternativa que apresenta corretamente o conceito de convalidação.",
+    "opcoes": {
+      "A": "Desfazimento de ato administrativo por motivo de ilegalidade, com efeitos retroativos",
+      "B": "Ato discricionário por meio do qual a Administração revoga um ato válido",
+      "C": "Ato administrativo que extingue os efeitos de um ato em razão do descumprimento de deveres",
+      "D": "Anulação de ato administrativo por vício insanável de legalidade",
+      "E": "Ato por meio do qual a Administração corrige um vício existente em ato ilegal, sanável"
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "Convalidação é o ato corretivo de um vício sanável em ato administrativo, sem prejudicar o interesse público."
+  },
+  {
+    "numero": 47,
+    "disciplina": "Conhecimentos Específicos - Direito Administrativo",
+    "questao": "No processo administrativo, os princípios e garantias fundamentais assegurados aos administrados incluem:",
+    "opcoes": {
+      "A": "Contraditório, ampla defesa, devido processo legal, razoabilidade, proporcionalidade e motivação",
+      "B": "Instauração mediante provocação, instrução contraditória, decisão fundamentada",
+      "C": "Igualdade entre as partes, oportunidade de manifestação, avaliação das provas",
+      "D": "Direito de petição, contraditório processual, defesa técnica especializada",
+      "E": "Participação dos interessados, apresentação de alegações, produção de provas"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "Lei 9.784/99 estabelece contraditório, ampla defesa, devido processo legal, razoabilidade, proporcionalidade e motivação."
+  },
+  {
+    "numero": 48,
+    "disciplina": "Conhecimentos Específicos - Direito Administrativo",
+    "questao": "A responsabilidade civil do Estado pode ser objetiva ou subjetiva. Assinale a opção correta no que concerne a essa responsabilidade.",
+    "opcoes": {
+      "A": "A responsabilidade por atos comissivos depende da demonstração de dolo ou culpa",
+      "B": "Na hipótese de omissão, aplica-se a teoria subjetiva, exigindo demonstração de culpa",
+      "C": "A responsabilidade objetiva configura-se apenas diante de atos ilícitos",
+      "D": "A culpa exclusiva da vítima exclui a responsabilidade civil do Estado",
+      "E": "O Estado não pode ser responsabilizado por concessionárias de serviços públicos"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A culpa exclusiva da vítima rompe o nexo causal entre a atuação estatal e o dano, excluindo a responsabilidade."
+  },
+  {
+    "numero": 49,
+    "disciplina": "Conhecimentos Específicos - Direito Penal",
+    "questao": "Em 2024, André cometeu crime cuja pena máxima era de quatro anos. Em 2025, nova lei aumentou a pena para oito anos. André ainda não havia sido julgado. Nessa situação, assinale a alternativa correta.",
+    "opcoes": {
+      "A": "A nova lei será aplicada a André somente se ainda não houver sentença",
+      "B": "A lei nova é mais gravosa, mas retroage por se tratar de crime doloso",
+      "C": "A nova lei aplica-se imediatamente a todos os casos",
+      "D": "A nova lei penal não retroage, por ser mais severa",
+      "E": "A lei penal mais gravosa não retroage, devendo aplicar-se a norma da época dos fatos"
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "Lei penal mais gravosa não retroage conforme artigo 5º, XXXIX da CF. Aplica-se a lei vigente à época dos fatos."
+  },
+  {
+    "numero": 50,
+    "disciplina": "Conhecimentos Específicos - Direito Penal",
+    "questao": "De acordo com o Código Penal brasileiro, a extraterritorialidade da lei penal aplica-se:",
+    "opcoes": {
+      "A": "Exclusivamente a crimes cometidos no Brasil por estrangeiros",
+      "B": "Apenas aos crimes que afetam bens jurídicos internacionais",
+      "C": "À prática de crimes contra a administração pública por funcionário público brasileiro, ainda que cometidos no exterior",
+      "D": "Apenas mediante solicitação expressa do governo estrangeiro",
+      "E": "Exclusivamente a crimes cometidos em alto-mar, em navios estrangeiros"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O CP prevê que crimes contra a administração pública cometidos por servidor público brasileiro no exterior podem ser punidos."
+  },
+  {
+    "numero": 51,
+    "disciplina": "Conhecimentos Específicos - Direito Penal",
+    "questao": "Em relação ao concurso de pessoas, assinale a alternativa correta.",
+    "opcoes": {
+      "A": "A teoria só interessa aos delitos unissubjetivos",
+      "B": "Resta configurado quando dois ou mais concorrem para um crime, sendo irrelevante a identidade de propósitos",
+      "C": "As circunstâncias objetivas se comunicam mesmo que o coautor não tenha conhecimento",
+      "D": "O Código Penal não distingue autoria de participação",
+      "E": "As circunstâncias pessoais sempre se comunicam entre os agentes"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "A teoria do concurso de pessoas interessa aos delitos unissubjetivos. Nos plurissubjetivos, a reunião de pessoas é da essência."
+  },
+  {
+    "numero": 52,
+    "disciplina": "Conhecimentos Específicos - Direito Penal",
+    "questao": "Conforme o art. 312 do Código Penal, o crime de peculato ocorre quando o agente público:",
+    "opcoes": {
+      "A": "Se apropria de qualquer bem público ou privado",
+      "B": "Se apropria de valor ou bem móvel público, de que tem posse em razão do cargo",
+      "C": "Subtrai bem móvel alheio com uso de arma",
+      "D": "Solicita vantagem indevida, prometendo influenciar ato administrativo",
+      "E": "Desvia recurso orçamentário sem dolo"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Peculato é apropriação de valor ou bem móvel público ou particular de que o agente tem posse em razão do cargo."
+  },
+  {
+    "numero": 53,
+    "disciplina": "Conhecimentos Específicos - Direito Processual Penal",
+    "questao": "Conforme o Código de Processo Penal, estando o indiciado preso, o prazo para encerramento do inquérito policial é de:",
+    "opcoes": {
+      "A": "5 dias",
+      "B": "10 dias",
+      "C": "15 dias",
+      "D": "30 dias",
+      "E": "60 dias"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "CPP artigo 10 estabelece prazo máximo de 10 dias para inquérito quando o indiciado está preso."
+  },
+  {
+    "numero": 54,
+    "disciplina": "Conhecimentos Específicos - Direito Processual Penal",
+    "questao": "No tocante às espécies de prisão, assinale a alternativa correta:",
+    "opcoes": {
+      "A": "A prisão temporária pode ser decretada por autoridade policial",
+      "B": "A prisão em flagrante sempre exige prévia autorização judicial",
+      "C": "A prisão preventiva pode ser decretada de ofício pelo juiz, mesmo após Lei 13.964/2019",
+      "D": "O juiz pode substituir prisão preventiva pela domiciliar quando o agente for imprescindível aos cuidados de pessoa menor de 6 anos",
+      "E": "A prisão civil por dívida é cabível no caso de obrigação alimentar"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "Lei 13.964/2019 permite substituição de prisão preventiva por domiciliar para responsável por pessoa menor de 6 anos ou com deficiência."
+  },
+  {
+    "numero": 55,
+    "disciplina": "Conhecimentos Específicos - Direito Processual Penal",
+    "questao": "Sobre a ação penal, assinale a alternativa correta:",
+    "opcoes": {
+      "A": "A ação penal pública é indisponível, não podendo ser arquivada sem controle judicial",
+      "B": "A queixa-crime é apresentada pelo Ministério Público",
+      "C": "A análise do pedido de trancamento é prejudicada pela aceitação de suspensão condicional",
+      "D": "O Ministério Público pode oferecer denúncia sem justa causa",
+      "E": "A ação penal privada pode ser ajuizada independentemente de manifestação da vítima"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "Ação penal pública é indisponível, exigindo controle judicial para seu arquivamento pelo MP."
+  },
+  {
+    "numero": 56,
+    "disciplina": "Conhecimentos Específicos - Lei de Execução Penal",
+    "questao": "Fábio, reincidente em crime doloso, cumpre pena definitiva em regime fechado por roubo. Sobrevém o falecimento de seu cônjuge. Nesse cenário, é correto afirmar que Fábio",
+    "opcoes": {
+      "A": "tem direito à permissão de saída, concedida pelo diretor",
+      "B": "tem direito à saída temporária, concedida pelo diretor",
+      "C": "tem direito à saída temporária, mediante escolta",
+      "D": "não tem direito à permissão de saída, por estar em regime fechado",
+      "E": "não tem direito à permissão de saída, por ser reincidente"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "LEP artigo 120 prevê saída temporária (permissão de saída) em casos de morte de cônjuge, concedida pelo diretor do estabelecimento."
+  },
+  {
+    "numero": 57,
+    "disciplina": "Conhecimentos Específicos - Lei de Drogas",
+    "questao": "De acordo com a Lei nº 11.343/2006, qual das alternativas descreve corretamente uma circunstância que pode aumentar a pena para o traficante?",
+    "opcoes": {
+      "A": "O tráfico é punido com pena fixa de 10 anos, sem possibilidade de aumento",
+      "B": "A pena pode ser aumentada se o tráfico ocorrer em locais de culto religioso",
+      "C": "A pena pode ser aumentada se o tráfico ocorrer em escolas ou envolver menores de idade",
+      "D": "A pena pode ser aumentada caso o traficante seja usuário de drogas",
+      "E": "A pena pode ser aumentada apenas se o traficante for funcionário público"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Lei 11.343/06 prevê aumento de pena quando tráfico ocorre em escolas ou envolve menores de idade."
+  },
+  {
+    "numero": 58,
+    "disciplina": "Conhecimentos Específicos - Lei de Abuso de Autoridade",
+    "questao": "A Lei nº 13.869/2019 dispõe sobre crimes de abuso de autoridade. Com base nessa legislação, assinale a alternativa CORRETA.",
+    "opcoes": {
+      "A": "Não existe possibilidade de substituição de pena privativa de liberdade por pena restritiva",
+      "B": "Os crimes são sempre de ação penal pública condicionada à representação",
+      "C": "A responsabilidade civil e administrativa deve se basear na apuração criminal",
+      "D": "É efeito da condenação a inabilitação pelo prazo de 1 a 5 anos",
+      "E": "Divergências na interpretação da lei configuram crime de abuso"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "Lei 13.869/2019 prevê como efeito da condenação a inabilitação para cargo público pelo prazo de 1 a 5 anos."
+  },
+  {
+    "numero": 59,
+    "disciplina": "Conhecimentos Específicos - Lei Estadual",
+    "questao": "Considerando as disposições do Regime Jurídico Único dos servidores públicos civis do Espírito Santo, é correto afirmar que poderá o servidor público ausentar-se do serviço:",
+    "opcoes": {
+      "A": "pelos dias necessários à realização de provas ou exames finais quando estudante",
+      "B": "por oito dias consecutivos por motivo de falecimento do cônjuge ou pais",
+      "C": "por até dois dias para apresentação obrigatória em órgão militar",
+      "D": "por até cinco dias consecutivos por motivo de casamento",
+      "E": "por um dia a cada seis meses para doação de sangue"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "Lei estadual permite ausência para realização de provas/exames finais para estudante matriculado em estabelecimento oficial."
+  },
+  {
+    "numero": 60,
+    "disciplina": "Conhecimentos Específicos - Lei Estadual",
+    "questao": "De acordo com a Lei Estadual nº 1.059/2023, o lapso de tempo estabelecido como o mínimo necessário para que o servidor se habilite à progressão ou promoção é denominado(a):",
+    "opcoes": {
+      "A": "carreira",
+      "B": "classe",
+      "C": "referência",
+      "D": "progresso",
+      "E": "interstício"
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "Interstício é o lapso de tempo mínimo exigido para progressão ou promoção do servidor conforme Lei 1.059/2023."
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "numero": 1,
+    "disciplina": "Direitos Humanos",
+    "questao": "A Declaração Universal dos Direitos Humanos",
+    "opcoes": {
+      "A": "é um conjunto de regras destinado a garantir a impunidade dos criminosos.",
+      "B": "não reconhece nenhum direito que seja aplicável às pessoas vítimas de crimes.",
+      "C": "não proíbe expressamente a aplicação da pena de morte nem a prisão perpétua para autores de crimes graves.",
+      "D": "dispõe que os criminosos devem ser punidos de forma branda porque são vítimas da desigualdade social."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A Declaração Universal dos Direitos Humanos não proíbe expressamente a aplicação da pena de morte, deixando essa questão a critério dos Estados-membros."
+  },
+  {
+    "numero": 2,
+    "disciplina": "Direitos Humanos",
+    "questao": "Acerca do que dispõe a Declaração Universal dos Direitos Humanos, informe se é verdadeiro (V) ou falso (F): ( ) Todo ser humano tem o direito à saída e ao regresso de qualquer país. ( ) Todo ser humano, vítima de perseguição legitimamente motivada por crimes de direito comum, tem o direito de procurar e de gozar asilo em outros países. ( ) Todo ser humano tem direito à liberdade de locomoção e residência dentro das fronteiras de cada Estado.",
+    "opcoes": {
+      "A": "V – F – V",
+      "B": "F – V – F",
+      "C": "F – V – V",
+      "D": "F – F – V"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A sequência correta é F – V – V. Não há direito incondicional à saída de qualquer país, mas há proteção para perseguidos políticos, e há direito à liberdade de locomoção dentro das fronteiras."
+  },
+  {
+    "numero": 3,
+    "disciplina": "Direitos Humanos",
+    "questao": "No que concerne a Declaração Universal dos Direitos Humanos, analise as afirmativas: I. Todo ser humano tem direito a um padrão de vida capaz de assegurar-lhe, e a sua família, saúde e bem-estar. II. Todo ser humano que trabalha tem direito a uma remuneração justa e satisfatória, ao que é vedado acrescer outros meios de proteção social. III. Todo ser humano tem direito à instrução gratuita.",
+    "opcoes": {
+      "A": "I",
+      "B": "III",
+      "C": "I e II",
+      "D": "I e III"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "As afirmativas I e III estão corretas. A II está incorreta porque é possível acrescer outros meios de proteção social além da remuneração."
+  },
+  {
+    "numero": 4,
+    "disciplina": "Direitos Humanos",
+    "questao": "De acordo com o que dispõe a Declaração Universal dos Direitos Humanos, é correto afirmar que",
+    "opcoes": {
+      "A": "não há previsão expressa da proteção contra o desemprego.",
+      "B": "o direito a salário igual por trabalho igual comporta algumas discriminações previstas em lei.",
+      "C": "o direito de fundar sindicatos está relacionado com a obrigação de filiar-se e associar-se.",
+      "D": "o direito ao repouso e aos lazeres está expressamente previsto, bem como a limitação razoável da duração do trabalho e o pagamento de férias periódicas."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A Declaração expressa o direito ao repouso, aos lazeres, limitação da jornada de trabalho e pagamento de férias periódicas."
+  },
+  {
+    "numero": 5,
+    "disciplina": "Direitos Humanos",
+    "questao": "Em sintonia com o Art. XXIII da Declaração Universal dos Direitos Humanos, qual afirmativa está INCORRETA? I. Toda pessoa tem direito ao trabalho e proteção contra o desemprego. II. Toda pessoa que trabalhe tem direito a uma remuneração justa. III. Toda pessoa tem direito a organizar sindicatos. IV. Toda pessoa, ao realizar trabalho igual, tem direito a remuneração diferente motivada por distinção de nacionalidade.",
+    "opcoes": {
+      "A": "Somente as afirmativas I e II são corretas.",
+      "B": "Somente as afirmativas I e IV são corretas.",
+      "C": "Somente as afirmativas III e IV são corretas.",
+      "D": "Somente as afirmativas I, II e III são corretas."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "As afirmativas I, II e III estão corretas. A IV está incorreta pois não há direito a remuneração diferente por nacionalidade."
+  },
+  {
+    "numero": 6,
+    "disciplina": "Constituição Federal",
+    "questao": "Qual das afirmativas abaixo encontra-se entre os direitos e garantias fundamentais, segundo a Constituição Federal de 1988?",
+    "opcoes": {
+      "A": "Ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude da lei.",
+      "B": "A manifestação do pensamento é livre, sendo protegido o anonimato.",
+      "C": "É livre a expressão da atividade intelectual, artística, científica e de comunicação, observada a censura e, em alguns casos, a licença.",
+      "D": "É plena a liberdade de associação para fins lícitos, inclusive, a de caráter paramilitar."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "Esta é uma garantia fundamental expressa na Constituição Federal de 1988, no artigo 5º. As demais opções contêm imprecisões."
+  },
+  {
+    "numero": 7,
+    "disciplina": "Direito Constitucional",
+    "questao": "O acesso à justiça é um direito fundamental. Assinale a alternativa INCORRETA sobre o dever dos estados de promover o acesso à justiça.",
+    "opcoes": {
+      "A": "A lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito.",
+      "B": "A Defensoria Pública é instituição permanente, essencial à função jurisdicional do Estado.",
+      "C": "Os estrangeiros, diferentemente dos brasileiros, pagam uma taxa para ter o acesso à justiça.",
+      "D": "O Estado tem a obrigação de garantir que a pessoa com poucos recursos financeiros tenha acesso a um advogado, sem ter que arcar com o custo."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A alternativa C é INCORRETA porque o acesso à justiça não é restrito a brasileiros, e não há taxa diferenciada para estrangeiros."
+  },
+  {
+    "numero": 8,
+    "disciplina": "Constituição Federal",
+    "questao": "Em relação à literalidade do texto Constitucional, analise as assertivas: I. Às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação. II. Todos os seres humanos nascem livres e iguais em dignidade e em direitos. III. O casamento não pode ser celebrado sem o livre e pleno consentimento dos futuros esposos. IV. Quem trabalha tem direito a uma remuneração equitativa e satisfatória.",
+    "opcoes": {
+      "A": "Apenas I.",
+      "B": "Apenas II e III.",
+      "C": "Apenas III e IV.",
+      "D": "I, II, III e IV."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "Todas as assertivas estão corretas conforme a Constituição Federal e a Declaração Universal dos Direitos Humanos."
+  },
+  {
+    "numero": 9,
+    "disciplina": "Direito do Trabalho",
+    "questao": "São direitos dos trabalhadores urbanos e rurais, instituídos pela Constituição Federal, além de outros que visem à melhoria de sua condição social:",
+    "opcoes": {
+      "A": "irredutibilidade do salário, ainda que haja autorização disposta em convenção ou acordo coletivo.",
+      "B": "participação nos lucros, ou resultados, vinculada à remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei.",
+      "C": "licença à gestante, sem prejuízo do emprego e do salário, com a duração de 180 dias.",
+      "D": "igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A Constituição Federal prevê a participação nos lucros ou resultados, e excepcionalmente na gestão da empresa. As demais opções contêm imprecisões."
+  },
+  {
+    "numero": 10,
+    "disciplina": "Direito Constitucional",
+    "questao": "O remédio constitucional que deve ser utilizado sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais corresponde ao(à):",
+    "opcoes": {
+      "A": "ação civil pública.",
+      "B": "habeas corpus.",
+      "C": "mandado de injunção.",
+      "D": "mandado de segurança."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O mandado de injunção é o remédio adequado para suprir a falta de norma regulamentadora que torna inviável o exercício de direitos constitucionais."
+  },
+  {
+    "numero": 11,
+    "disciplina": "Lei Complementar 706/2013",
+    "questao": "Conforme previsto na lei complementar nº 706 de 2013, são atribuições dos agentes socioeducativos, EXCETO:",
+    "opcoes": {
+      "A": "acompanhar as atividades diárias, orientar e dar suporte aos socioeducandos de seu grupo de trabalho.",
+      "B": "resolver conflitos imediatos; registrar em livro de ata o transcorrer do plantão.",
+      "C": "participar das reuniões periódicas para discutir o desenvolvimento dos socioeducandos juntamente toda equipe de agentes socioeducativos.",
+      "D": "facilitar as reuniões matinais e elaborar relatórios do cotidiano (atas) e do processo de desenvolvimento dos socioeducandos."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "A opção A não é atribuição conforme a Lei Complementar 706/2013. As demais opções descrevem atribuições específicas dos agentes socioeducativos."
+  },
+  {
+    "numero": 12,
+    "disciplina": "Lei Complementar 706/2013",
+    "questao": "Conforme previsto na lei complementar nº 706 de 2013, são atribuições dos agentes socioeducativos:",
+    "opcoes": {
+      "A": "supervisionar, coordenar, programar ou executar os trabalhos relativos à utilização de métodos e técnicas terapêuticas e recreacionais.",
+      "B": "orientar os socioeducandos na pós-consulta quanto ao cumprimento das prescrições médicas.",
+      "C": "requisitar e controlar os suprimentos de gêneros alimentícios.",
+      "D": "Despertar os socioeducandos"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "A supervisão, coordenação e execução de atividades terapêuticas e recreacionais é atribuição dos agentes socioeducativos conforme a Lei Complementar 706/2013."
+  },
+  {
+    "numero": 13,
+    "disciplina": "Lei Complementar 706/2013",
+    "questao": "Conforme previsto na lei complementar nº 706 de 2013, são atribuições dos agentes socioeducativos:",
+    "opcoes": {
+      "A": "Trabalhar de forma individualizada e sem integração com os técnicos responsáveis pelos socioeducandos.",
+      "B": "Acompanhar a limpeza matinal e a higiene pessoal dos socioeducandos.",
+      "C": "Estar atento ao desenvolvimento de quaisquer socioeducandos ainda que não estejam sob sua responsabilidade.",
+      "D": "Vistoriar periodicamente o exterior das unidades e dos alojamentos."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Acompanhar a limpeza matinal e a higiene pessoal é atribuição central dos agentes socioeducativos conforme a Lei Complementar 706/2013."
+  },
+  {
+    "numero": 14,
+    "disciplina": "CONANDA",
+    "questao": "Segundo a resolução 119 do CONANDA:",
+    "opcoes": {
+      "A": "O Sinase encontra-se protocolado na Secretaria universal dos Direitos Humanos da Presidência da República / ouvidoria de Promoção dos Direitos da Criança e do Adolescente.",
+      "B": "O Sinase encontra-se protocolado na Secretaria Especial dos Direitos Humanos da Presidência da República / Subsecretaria de Promoção dos Direitos da Criança e do Adolescente",
+      "C": "O Sinase encontra-se protocolado na Secretaria de direitos do Homem e do Cidadão da Presidência da República secretaria de Promoção dos Direitos da Criança e do Adolescente.",
+      "D": "O Sinase encontra-se protocolado na Secretaria dos Direitos Humanos da Presidência da República / secretaria de Promoção dos Direitos da Criança e do Adolescente"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Conforme a Resolução 119 do CONANDA, o Sinase encontra-se vinculado à Secretaria Especial dos Direitos Humanos da Presidência da República."
+  },
+  {
+    "numero": 15,
+    "disciplina": "Ética Pública",
+    "questao": "São princípios fundamentais a serem observados pelos servidores:",
+    "opcoes": {
+      "A": "interesse privado",
+      "B": "parcialidade",
+      "C": "transparência",
+      "D": "Executoriedade"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Transparência é um princípio fundamental da administração pública que deve ser observado pelos servidores públicos."
+  },
+  {
+    "numero": 16,
+    "disciplina": "Ética Pública",
+    "questao": "É dever do servidor público:",
+    "opcoes": {
+      "A": "Exercer, com zelo e dedicação, as atribuições do cargo ou função.",
+      "B": "Tornar público e não guardar sigilo sobre os assuntos do órgão.",
+      "C": "Não observar as normas legais e regulamentares.",
+      "D": "Levar ao conhecimento da autoridade as irregularidades de que tiver ciência, ainda que não seja em razão do cargo ou função."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O dever de exercer com zelo e dedicação as atribuições do cargo é um dos deveres fundamentais do servidor público conforme a Lei de Servidores Públicos."
+  },
+  {
+    "numero": 17,
+    "disciplina": "Código de Ética",
+    "questao": "O Código de Ética dos Servidores Civis do Poder Executivo do Estado do Espírito Santo – Decreto nº 1595 de 06/12/2005, em seu artigo 4º, denota o que é vedado ao Servidor Público. Dentre as alternativas a seguir, assinale aquela que NÃO apresenta corretamente o que está descrito no referido artigo.",
+    "opcoes": {
+      "A": "Utilizar pessoal ou recursos materiais do Estado em serviços ou atividades particulares.",
+      "B": "Manter sob sua chefia imediata cônjuge, companheira ou parente até o segundo grau civil.",
+      "C": "Tratar com misantropia, urbanidade e atenção os demais servidores públicos e os usuários do serviço público.",
+      "D": "Retardar ou deixar de praticar ato de ofício, ou praticá-lo contra disposição expressa em lei, para satisfazer interesse ou sentimento pessoal."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A alternativa C está incorreta porque 'misantropia' significa aversão ao ser humano, o que contradiz o dever de tratar com urbanidade. Deveria ser 'filantropia'."
+  },
+  {
+    "numero": 18,
+    "disciplina": "Informática",
+    "questao": "Você está utilizando o MS Word 2010 e precisa de um recurso para contabilizar, de modo imediato, as linhas e parágrafos utilizados em um texto digitado. Para isso, você deve selecionar o texto digitado e clicar no comando",
+    "opcoes": {
+      "A": "contar palavras",
+      "B": "régua",
+      "C": "pincel",
+      "D": "macros"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O comando 'Contar Palavras' no MS Word fornece estatísticas incluindo linhas e parágrafos do texto selecionado."
+  },
+  {
+    "numero": 19,
+    "disciplina": "Segurança da Informação",
+    "questao": "A proteção de dados sigilosos em um computador requer medidas de segurança eficazes. Em relação à configuração de segurança para evitar invasões e vazamentos de informações, assinale a alternativa correta.",
+    "opcoes": {
+      "A": "O phishing só ocorre quando o usuário instala um software malicioso no computador, não sendo possível que fraudes sejam aplicadas por meio de e-mails e links enganosos.",
+      "B": "O firewall impede exclusivamente o acesso a sites perigosos, mas não interfere no tráfego de dados entre programas instalados no computador e na internet.",
+      "C": "A ativação do Windows Defender, a configuração do firewall e a adoção de práticas seguras no e-mail, como filtros anti-phishing e autenticação em duas etapas, aumentam a proteção contra ameaças digitais.",
+      "D": "A segurança do e-mail não depende da ativação de filtros anti-spam e anti-phishing, pois as mensagens fraudulentas são automaticamente bloqueadas pelos servidores de e-mail."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A combinação de Windows Defender, firewall configurado e práticas seguras em e-mail fornece proteção robusta contra ameaças digitais."
+  },
+  {
+    "numero": 20,
+    "disciplina": "Segurança da Informação",
+    "questao": "Qual dos itens abaixo NÃO é um tipo de Malware?",
+    "opcoes": {
+      "A": "Ransomware.",
+      "B": "Trojans.",
+      "C": "Spear Phishing.",
+      "D": "Spyware."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Spear Phishing é uma técnica de engenharia social, não um tipo de malware. Ransomware, Trojans e Spyware são tipos de malware."
+  },
+  {
+    "numero": 21,
+    "disciplina": "Informática",
+    "questao": "O funcionamento de um computador depende da interação entre hardware e software. Sobre a relação entre hardware e software, analise as afirmativas: I. O hardware consiste nos componentes físicos do computador, como processador, placa de vídeo e memória, enquanto o software corresponde aos programas e instruções executadas sobre esse hardware. II. O desempenho de um software depende exclusivamente da capacidade do hardware, não sendo influenciado pela otimização do código ou pelo sistema operacional utilizado. III. Um software de edição de texto instrui a CPU a executar processos de formatação e exibição na tela, enquanto um jogo em 3D exige o trabalho conjunto da placa de vídeo e da memória para renderização gráfica.",
+    "opcoes": {
+      "A": "II apenas.",
+      "B": "I, II e III.",
+      "C": "I e II apenas.",
+      "D": "I e III apenas."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "As afirmativas I e III estão corretas. A II está incorreta porque o desempenho também depende de otimização de código e sistema operacional, não apenas do hardware."
+  },
+  {
+    "numero": 22,
+    "disciplina": "Informática",
+    "questao": "Um servidor público precisa organizar uma planilha de controle de horas com fórmulas de soma, média e validação de dados. Ao mesmo tempo, deve redigir um relatório com sumário automático, cabeçalho e marcações de revisão. Com base nesse cenário, quais ferramentas atendem às duas demandas com excelência?",
+    "opcoes": {
+      "A": "Windows Explorer e Bloco de Notas.",
+      "B": "Excel e Paint.",
+      "C": "WordPad e PowerPoint.",
+      "D": "Microsoft Excel e Microsoft Word."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "Microsoft Excel é ideal para planilhas com fórmulas, enquanto Microsoft Word é ideal para documentos com formatação e revisão."
+  },
+  {
+    "numero": 23,
+    "disciplina": "Direitos da Criança",
+    "questao": "De acordo com a Convenção Sobre os Direitos da Criança, os Estados Partes devem garantir que a criança não seja separada dos pais contra a vontade deles. Com base na referida Convenção, assinale a alternativa INCORRETA.",
+    "opcoes": {
+      "A": "Há ressalva quanto a essa providência quando tal separação seja necessária tendo em vista o melhor interesse da criança e mediante determinação das autoridades competentes.",
+      "B": "A decisão da separação está sujeita a revisão judicial.",
+      "C": "As partes interessadas devem ter a oportunidade de participar e de manifestar suas opiniões, exceto a criança e aquele que deu causa à separação.",
+      "D": "Tal determinação pode ser necessária em casos específicos, por exemplo, quando a criança sofre maus-tratos ou negligência por parte dos pais."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A alternativa C é incorreta porque a criança tem direito de participar e manifestar suas opiniões sobre a separação. Excluí-la violaria seus direitos."
+  },
+  {
+    "numero": 24,
+    "disciplina": "Direitos da Criança",
+    "questao": "O Princípio X da Declaração Universal dos Direitos das Crianças, que diz respeito ao direito de crescer dentro de um espírito de solidariedade, compreensão, amizade e justiça entre os povos, declara que",
+    "opcoes": {
+      "A": "a criança deve ser punida quando praticar discriminação racial, religiosa, ou de qualquer outra índole.",
+      "B": "deve se exigir da criança energias e aptidões ao serviço de seus semelhantes.",
+      "C": "a criança deve estar livre de jogos e brincadeiras, os quais deverão estar dirigidos à educação.",
+      "D": "a criança deve ser protegida contra as práticas que possam fomentar a discriminação racial, religiosa, ou de qualquer outra índole."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A criança deve ser protegida contra discriminação, não punida por ela. O Princípio X estabelece que as crianças devem crescer em um ambiente livre de discriminação."
+  },
+  {
+    "numero": 25,
+    "disciplina": "Direitos da Criança",
+    "questao": "Com base na Convenção sobre os Direitos da Criança, assinale a alternativa correta.",
+    "opcoes": {
+      "A": "A criança adotada em outro país não goza de salvaguardas e normas equivalentes às existentes em seu país de origem.",
+      "B": "Os Estados Partes da convenção comprometem-se a respeitar o direito da criança de preservar sua identidade, inclusive a nacionalidade, o nome e as relações familiares.",
+      "C": "Os Estados partes da convenção deverão estabelecer uma idade mínima ou idades mínimas para a admissão em emprego de criança, nunca sendo inferior a 16 anos.",
+      "D": "Os Estados partes da convenção deverão estabelecer uma idade mínima antes da qual se presumirá que a criança não tem capacidade para infringir as leis penais, nunca sendo inferior a 18 anos."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A Convenção determina que os Estados Partes devem respeitar o direito da criança de preservar sua identidade, nacionalidade, nome e relações familiares."
+  },
+  {
+    "numero": 26,
+    "disciplina": "Direitos da Criança",
+    "questao": "A Convenção sobre os Direitos da Criança estabelece que os Estados‐partes reconheçam a importância da função exercida pelos órgãos de comunicação social. Acerca da política de informação envolvendo menores, assinale a afirmativa correta.",
+    "opcoes": {
+      "A": "No que concerne às Medidas Específicas de Proteção, é incabível prestar‐lhe informações sobre os motivos que determinam a intervenção.",
+      "B": "Deve haver o encorajamento dos órgãos de comunicação social a levar em conta as necessidades linguísticas das crianças indígenas ou que pertençam a um grupo minoritário.",
+      "C": "Os proprietários das lojas que explorem a locação de fitas de programação respondem pela falta de informação no invólocro, isentando os funcionários e gerentes.",
+      "D": "A criança tem direito à liberdade de expressão, mas com restrições dependendo da idade."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A Convenção estabelece que os órgãos de comunicação social devem levar em conta as necessidades linguísticas das crianças indígenas e minoritárias."
+  },
+  {
+    "numero": 27,
+    "disciplina": "Português - Figuras de Linguagem",
+    "questao": "Assinale a opção que apresenta a frase em que o termo sublinhado mostra valor figurado (não lógico).",
+    "opcoes": {
+      "A": "Está morto: podemos elogiá-lo à vontade.",
+      "B": "É melhor morrer de vodca do que de tédio.",
+      "C": "O suicídio é um roubo ao gênero humano.",
+      "D": "Quem não fica velho, morre moço."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A frase usa 'morrer' em sentido figurado, significando perder-se ou entregar-se completamente a algo, não a morte literal."
+  },
+  {
+    "numero": 28,
+    "disciplina": "Português - Linguagem",
+    "questao": "Assinale a frase que está inteiramente em linguagem lógica, sem conotação (linguagem figurada).",
+    "opcoes": {
+      "A": "Lavo muita roupa no tanque e só ando de bicicleta. Acho que isso faz o corpo ficar em forma.",
+      "B": "Êxtase: descobrir uma nova camada de bombons sob a primeira.",
+      "C": "Se você ficar com medo da guerra, coma uma bomba de chocolate.",
+      "D": "Se você tem alguma coisa importante a dizer, embrulhe-a em chocolate."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "A alternativa A usa linguagem denotativa, sem figuras de linguagem ou expressões figuradas, comunicando-se de forma lógica e direta."
+  },
+  {
+    "numero": 29,
+    "disciplina": "Português - Ironia",
+    "questao": "A ironia é uma figura de linguagem em que se comunica o oposto do que se quer dar a entender. A ironia está presente na seguinte frase:",
+    "opcoes": {
+      "A": "Mais vale agir sem arrependimento do que se arrepender de não ter feito nada.",
+      "B": "Dinheiro não tem cheiro.",
+      "C": "Perdoar é além do mais, um bom negócio.",
+      "D": "Quarenta para você e sessenta para mim; parceiros iguais seremos assim."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A ironia está em afirmar que são 'parceiros iguais' quando claramente a distribuição (60 para um, 40 para o outro) não é igualitária."
+  },
+  {
+    "numero": 30,
+    "disciplina": "Português - Crase",
+    "questao": "Entre as frases abaixo, assinale aquela que mostra o acento grave indicativo da crase de forma correta.",
+    "opcoes": {
+      "A": "Não leve a vida tão à sério. Você não conseguirá sair dela com vida.",
+      "B": "Ninguém é obrigado à fazer mais do que pode.",
+      "C": "O que é verdade à luz de uma lâmpada não é sempre verdade sob o sol.",
+      "D": "Deus deu à cada povo um profeta em sua própria língua."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A frase C usa corretamente a crase: 'à luz' (preposição 'a' + artigo definido 'a'). As demais opções incorretamente aplicam a crase."
+  },
+  {
+    "numero": 31,
+    "disciplina": "Português - Pontuação",
+    "questao": "Assinale a frase abaixo que está corretamente pontuada.",
+    "opcoes": {
+      "A": "A Internet é uma solução, à procura de um problema.",
+      "B": "Vencer é 90% suor e 40%, técnica.",
+      "C": "Os tempos futuros trarão, muitíssimos, outros inventos.",
+      "D": "Cheguei atrasado e ela, adiantada."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A alternativa D está corretamente pontuada. A vírgula antes de 'adiantada' marca adequadamente a omissão do verbo (zeugma)."
+  },
+  {
+    "numero": 32,
+    "disciplina": "Português - Sintaxe",
+    "questao": "As frases a seguir mostram ações sem seus agentes correspondentes identificados. Assinale a única frase que tem a estratégia dessa marca corretamente identificada.",
+    "opcoes": {
+      "A": "Neva bastante no sul do país quase todo inverno / verbos transitivos na forma impessoal.",
+      "B": "Destruíram vários ônibus na cidade do Rio / sujeito indeterminado com verbo na terceira pessoa do plural.",
+      "C": "Este ano, editou-se um grande número de livros / construção com sujeito indeterminado.",
+      "D": "Está mais ou menos certo que o homem de Neanderthal não é nosso ancestral / verbo ser, em construções clássicas."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A alternativa B está correta: 'Destruíram vários ônibus' tem sujeito indeterminado com verbo na terceira pessoa do plural, não identificando o agente da ação."
+  },
+  {
+    "numero": 33,
+    "disciplina": "Português - Verbo",
+    "questao": "Observe a oração 'Não corramos para cima da criança com um iPad na mão (...)'. O verbo 'correr', nesse contexto, é",
+    "opcoes": {
+      "A": "um verbo intransitivo.",
+      "B": "um verbo transitivo direto.",
+      "C": "um verbo transitivo indireto.",
+      "D": "um verbo de ligação."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O verbo 'correr' nesse contexto é intransitivo. Ele não requer um objeto direto; o complemento é um adjunto adverbial de lugar."
+  },
+  {
+    "numero": 34,
+    "disciplina": "Português - Sujeito",
+    "questao": "Considerado o contexto, o verbo cujo sujeito é indeterminado, referindo-se à massa humana em geral, está sublinhado em:",
+    "opcoes": {
+      "A": "certezas proliferam nas cabeças",
+      "B": "os emojis são os novos hieróglifos",
+      "C": "agora querem extinguir os livros",
+      "D": "na cela de uma tela estão ilesas"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A alternativa C tem sujeito indeterminado: 'querem extinguir' (verbo na terceira pessoa do plural sem sujeito definido, referindo-se à massa humana em geral)."
+  },
+  {
+    "numero": 35,
+    "disciplina": "Português - Sintaxe",
+    "questao": "Em 'Diretor de produção da EXP Produções, organizadora do evento, Alaor Neto detalhou o planejamento para evitar impactos no trânsito local e apresentou as medidas de segurança adotadas. A expectativa é de um público de 3 mil pessoas.', o termo em destaque desempenha função de",
+    "opcoes": {
+      "A": "aposto.",
+      "B": "adjunto adnominal.",
+      "C": "sujeito.",
+      "D": "predicativo do sujeito."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O termo 'organizadora do evento' é um aposto, pois funciona como uma explicação ou especificação de 'EXP Produções'."
+  },
+  {
+    "numero": 36,
+    "disciplina": "Português - Morfologia",
+    "questao": "Os moradores da região Sul do país — Santa Catarina, Rio Grande do Sul e Paraná — foram os que mais tiveram interesse no tema. Morfologicamente, é correto afirmar que há:",
+    "opcoes": {
+      "A": "Três conjunções, sendo que uma delas é uma aditiva.",
+      "B": "Três advérbios, sendo que um deles é de intensidade.",
+      "C": "Dois artigos definidos masculinos no plural.",
+      "D": "Quatro preposições, sendo que uma se repete."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "Na frase, há quatro preposições: 'da' (2x), 'de' (2x). A preposição 'de' aparece em 'região' e 'país' e 'interesse', enquanto 'da' aparece em 'da região' e 'do país'."
+  }
+]
