@@ -1,0 +1,392 @@
+[
+  {
+    "numero": 1,
+    "disciplina": "Direitos Humanos",
+    "questao": "Analise as afirmativas a seguir sobre quais são consideradas características das normas relacionadas a Direitos Humanos: I. Historicidade. II. Irrenunciabilidade. III. Relatividade. IV. Imprescritibilidade. Marque a opção que apresenta as afirmativas CORRETAS.",
+    "opcoes": {
+      "A": "I – II",
+      "B": "I – II – III",
+      "C": "I – II – III – IV",
+      "D": "II – IV"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "As características dos direitos humanos incluem historicidade (evoluem historicamente), irrenunciabilidade (não podem ser renunciados), relatividade (podem sofrer limitações legítimas) e imprescritibilidade (não se extinguem pelo tempo)."
+  },
+  {
+    "numero": 2,
+    "disciplina": "Direitos Humanos",
+    "questao": "Os direitos humanos constituem a base normativa para a proteção da dignidade da pessoa humana, representando um dos pilares do constitucionalismo contemporâneo e da ordem internacional. Considerando seu conceito, assinale a alternativa correta.",
+    "opcoes": {
+      "A": "São concessões estatais que variam conforme a vontade política do legislador de cada país, sem caráter universal ou vinculante.",
+      "B": "Correspondem a prerrogativas inerentes a todos os seres humanos, fundadas na dignidade da pessoa humana, universais, inalienáveis, interdependentes e imprescritíveis, devendo ser respeitados e promovidos pelos Estados.",
+      "C": "Consistem em normas exclusivamente internas de cada país, voltadas apenas à regulação de direitos civis e políticos, sem relevância no âmbito internacional.",
+      "D": "Caracterizam-se como benefícios concedidos por tratados internacionais, passíveis de serem retirados caso o Estado denuncie o acordo que os originou."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Os direitos humanos são inerentes a todas as pessoas, universais, inalienáveis e devem ser promovidos pelos Estados. Não são concessões do Estado e têm relevância internacional."
+  },
+  {
+    "numero": 3,
+    "disciplina": "Direitos Humanos",
+    "questao": "Sobre as características dos direitos humanos, considere as seguintes afirmações: I. A indivisibilidade refere-se à ideia de que todos os direitos humanos possuem a mesma proteção jurídica e são interdependentes, sem hierarquia entre eles. II. A universalidade dos direitos humanos indica que esses direitos são aplicáveis a todas as pessoas, independentemente de sua cultura ou nacionalidade. III. A indisponibilidade, ou irrenunciabilidade, refere-se à impossibilidade de um titular abrir mão dos seus direitos humanos, em qualquer hipótese. IV. A imprescritibilidade refere-se ao fato de que os direitos humanos não podem ser vendidos ou transferidos. Estão corretas:",
+    "opcoes": {
+      "A": "apenas I",
+      "B": "apenas I e II",
+      "C": "apenas II e III",
+      "D": "apenas IV"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "As afirmativas I e II estão corretas. A III mistura conceitos (irrenunciabilidade não é absoluta em alguns contextos). A IV descreve alienabilidade, não imprescritibilidade."
+  },
+  {
+    "numero": 4,
+    "disciplina": "Direitos Humanos",
+    "questao": "Os direitos humanos não existem isoladamente e dependem, para que sejam respeitados, de diversas características que condicionam a atuação dos cidadãos e do Estado. Assinale a alternativa que apresenta o que pode contribuir para uma sociedade mais equitativa e respeitosa dos direitos humanos.",
+    "opcoes": {
+      "A": "A efemeridade dos direitos humanos.",
+      "B": "A inequidade dos direitos humanos.",
+      "C": "A indivisibilidade dos direitos humanos.",
+      "D": "A regionalização dos direitos humanos."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A indivisibilidade dos direitos humanos contribui para uma sociedade equitativa ao garantir que todos os direitos têm igual importância e são interdependentes."
+  },
+  {
+    "numero": 5,
+    "disciplina": "Direitos Humanos",
+    "questao": "Os Direitos Humanos são direitos essenciais para que o ser humano seja tratado com a dignidade que lhe é inerente e aos quais fazem jus todos os membros da espécie humana. Sobre o assunto, assinale a alternativa que apresente corretamente uma característica dos Direitos Humanos:",
+    "opcoes": {
+      "A": "Individualidade",
+      "B": "Alienabilidade",
+      "C": "Taxatividade",
+      "D": "Indisponibilidade"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A indisponibilidade (irrenunciabilidade) é uma característica fundamental dos direitos humanos, significando que ninguém pode abrir mão desses direitos."
+  },
+  {
+    "numero": 6,
+    "disciplina": "Direitos Humanos",
+    "questao": "Os Direitos Humanos de defesa caracterizam-se por constituir uma prerrogativa que poderá ser utilizada pela pessoa contra eventuais arbítrios estatais- são os chamados direitos de cunho _______________, que resguardam a liberdade dos indivíduos. A lacuna acima é corretamente preenchida por:",
+    "opcoes": {
+      "A": "Ativo",
+      "B": "Negativo",
+      "C": "Passivo",
+      "D": "Positivo"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Os direitos de defesa são de cunho negativo, pois exigem que o Estado se abstenha de agir, protegendo a liberdade individual contra arbitrariedades estatais."
+  },
+  {
+    "numero": 7,
+    "disciplina": "Direitos Humanos",
+    "questao": "\"[...] os direitos do homem, por mais fundamentais que sejam, são direitos históricos, ou seja, nascidos em certas circunstâncias, caracterizadas por lutas em defesa de novas liberdades contra velhos poderes, e nascidos de modo gradual, não todos de uma vez e nem de uma vez por todas.\" (BOBBIO, Norberto. A era dos direitos). Uma importante característica dos direitos humanos, que pode ser extraída do excerto acima, é a:",
+    "opcoes": {
+      "A": "Historicidade",
+      "B": "Irrenunciabilidade",
+      "C": "Relatividade",
+      "D": "Universalidade"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "A historicidade refere-se ao fato de que os direitos humanos evoluem historicamente, nascendo de lutas e reconhecimento gradual, não sendo eternos ou estáticos."
+  },
+  {
+    "numero": 8,
+    "disciplina": "Direitos Humanos",
+    "questao": "Os Direitos Humanos consistem em um conjunto de direitos considerado indispensável para uma vida humana pautada na liberdade, igualdade e dignidade. Sobre as características dos Direitos Humanos, é correto afirmar que",
+    "opcoes": {
+      "A": "Os Direitos Humanos são universais, entretanto se destinam às pessoas que cumprem as normas vigentes.",
+      "B": "As pessoas podem renunciar aos seus Direitos Humanos, caso não configure risco a sua vida.",
+      "C": "Existe a possibilidade de alienar os Direitos Humanos pela fixação de pena pecuniária ao transgressor da norma.",
+      "D": "Os Direitos Humanos são frutos do processo histórico, sendo reconhecidos gradativamente ao passar dos anos."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "Os direitos humanos são reconhecidos gradativamente através da história, evoluindo conforme a consciência coletiva e as lutas por direitos se desenvolvem."
+  },
+  {
+    "numero": 9,
+    "disciplina": "Direitos Humanos",
+    "questao": "As gerações dos direitos humanos representaram múltiplas conquistas em termos de direitos civis, políticos, econômicos, sociais, culturais e direitos de solidariedade. Do ponto de vista evolutivo, pode-se afirmar que",
+    "opcoes": {
+      "A": "os direitos sociais são considerados de primeira geração, pois tratam do que é básico para a promoção da dignidade da pessoa humana.",
+      "B": "os direitos econômicos não são propriamente direitos humanos, e sim garantias humanas inerentes ao comunismo e à justiça social.",
+      "C": "a terceira geração dos direitos humanos abarca direitos que se relacionam ao bem-estar coletivo, como o direito ao desenvolvimento e a um meio ambiente saudável.",
+      "D": "os direitos culturais e direitos de solidariedade são direitos humanos de segunda geração, já que complementam o direito básico à educação, à saúde e ao trabalho."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A terceira geração de direitos humanos refere-se aos direitos de solidariedade e bem-estar coletivo, incluindo direito ao desenvolvimento, meio ambiente e paz."
+  },
+  {
+    "numero": 10,
+    "disciplina": "Direitos Humanos",
+    "questao": "Na perspectiva histórica, a doutrina divide os Direitos Humanos em gerações. Sobre esta temática, analise os tópicos a seguir. I. 1ª geração: direitos da liberdade, direitos civis e políticos. II. 2ª geração: direitos da igualdade, direitos sociais, econômicos e culturais. III. 3ª geração: direitos da fraternidade, direitos difusos, dos povos da humanidade. IV. 4ª geração: direitos de participação democrática, direito ao pluralismo, bioética. Está correto o que se afirma em",
+    "opcoes": {
+      "A": "I, III e IV, apenas",
+      "B": "I, II e III, apenas",
+      "C": "I e III, apenas",
+      "D": "I, II, III e IV"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "Todas as afirmativas estão corretas. As quatro gerações de direitos humanos são reconhecidas pela doutrina contemporânea."
+  },
+  {
+    "numero": 11,
+    "disciplina": "Direitos Humanos",
+    "questao": "Os direitos humanos são inerentes à condição humana e as denominadas dimensões possuem uma função didática para o estudo do reconhecimento de cada categoria desses direitos. Considerando a classificação proposta pela doutrina, analise os seguintes direitos: I. Direito à liberdade de crença. II. Direito à conservação e utilização do patrimônio histórico e cultural. III. Direito à educação. IV. Direito à saúde. V. Direito ao reconhecimento da pessoa humana. Assinale a alternativa que apresenta suas respectivas dimensões, na mesma ordem.",
+    "opcoes": {
+      "A": "2ª dimensão; 3ª dimensão; 2ª dimensão; 2ª dimensão; 2ª dimensão",
+      "B": "1ª dimensão; 3ª dimensão; 2ª dimensão; 2ª dimensão; 1ª dimensão",
+      "C": "1ª dimensão; 2ª dimensão; 3ª dimensão; 3ª dimensão; 2ª dimensão",
+      "D": "2ª dimensão; 2ª dimensão; 2ª dimensão; 2ª dimensão; 1ª dimensão"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Liberdade de crença (1ª), patrimônio cultural (3ª), educação (2ª), saúde (2ª) e reconhecimento da pessoa (1ª) estão classificados corretamente em suas respectivas dimensões."
+  },
+  {
+    "numero": 12,
+    "disciplina": "Direitos Humanos",
+    "questao": "São exemplos de direitos humanos de primeira, segunda e terceira geração (ou dimensão), respectivamente:",
+    "opcoes": {
+      "A": "direito à educação, direito à liberdade de pensamento e direito à paz social.",
+      "B": "direito à liberdade de locomoção, direito à educação e direito ao meio ambiente ecologicamente equilibrado.",
+      "C": "direito à saúde, direito à igualdade e direito ao pluralismo político.",
+      "D": "direito à igualdade, direito à propriedade e direito à segurança."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Liberdade de locomoção (1ª geração - liberdades), educação (2ª geração - direitos sociais) e meio ambiente (3ª geração - solidariedade)."
+  },
+  {
+    "numero": 13,
+    "disciplina": "Direitos Humanos",
+    "questao": "Sobre a eficácia dos direitos fundamentais nas relações entre particulares (eficácia horizontal), assinale a alternativa correta.",
+    "opcoes": {
+      "A": "Os direitos fundamentais só produzem efeitos nas relações entre indivíduo e Estado, não alcançando relações entre dois ou mais particulares.",
+      "B": "No Brasil, admite-se que os direitos fundamentais possam ter eficácia nas relações entre particulares, impondo limites ao exercício da autonomia privada.",
+      "C": "A eficácia dos direitos fundamentais nas relações privadas é irrelevante, uma vez que todos os direitos podem ser livremente negociados entre os particulares.",
+      "D": "A chamada eficácia vertical dos direitos fundamentais refere-se à sua aplicação entre particulares, e não em face do Estado."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O Brasil reconhece a eficácia horizontal dos direitos fundamentais, permitindo sua aplicação nas relações entre particulares, limitando assim a autonomia privada."
+  },
+  {
+    "numero": 14,
+    "disciplina": "Direitos Humanos",
+    "questao": "Com base na Teoria Geral dos Direitos Fundamentais e na Constituição Federal do Brasil de 1988, identifica uma alternativa correta sobre a natureza e aplicação dos direitos fundamentais:",
+    "opcoes": {
+      "A": "Os direitos fundamentais, por sua natureza, aplicam-se exclusivamente nas relações entre o cidadão e o Estado, não influenciando as relações entre particulares.",
+      "B": "Os direitos fundamentais, como a liberdade de expressão, podem ser absolutos em qualquer contexto, não admitindo restrições sob nenhuma circunstância.",
+      "C": "Os direitos fundamentais possuem eficácia vertical e horizontal, sendo aplicáveis tanto nas relações entre indivíduos e o Estado quanto nas relações entre particulares.",
+      "D": "A eficácia horizontal dos direitos fundamentais significa que eles se aplicam apenas em situações que envolvem entidades governamentais e não se estendem a relações privadas."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A Constituição Federal reconhece tanto a eficácia vertical (Estado-indivíduo) quanto horizontal (particular-particular) dos direitos fundamentais."
+  },
+  {
+    "numero": 15,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "Considerando o que dispõe a Declaração Universal dos Direitos Humanos (1948), assinale a alternativa correta.",
+    "opcoes": {
+      "A": "A instrução fundamental e média é obrigatória e gratuita, de responsabilidade da família e do Estado.",
+      "B": "Os pais têm prioridade de direito na escolha do gênero de instrução que será ministrada a seus filhos.",
+      "C": "A instrução no grau elementar deve ser compulsória, laica, gratuita e mantida pelo poder público.",
+      "D": "A instrução técnico-profissional se destina a aqueles que possuem determinadas habilidades específicas."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A DUDH reconhece o direito dos pais em escolher o tipo de educação para seus filhos, respeitando a liberdade de consciência e religião."
+  },
+  {
+    "numero": 16,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "De acordo com a Declaração Universal dos Direitos Humanos, o documento reconhece que homens e mulheres maiores de idade têm o direito de se casar e constituir família, sem qualquer distinção de raça, nacionalidade ou religião. Sobre esse direito, assinale a alternativa correta.",
+    "opcoes": {
+      "A": "O casamento é obrigatório para todos os cidadãos que atingirem a maioridade.",
+      "B": "Os direitos no casamento variam conforme a religião ou nacionalidade do casal.",
+      "C": "A família só é reconhecida legalmente quando composta por filhos biológicos.",
+      "D": "O casamento não será válido senão com o livre e pleno consentimento dos nubentes."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A DUDH estabelece que o casamento requer o consentimento livre e pleno dos nubentes, proibindo casamentos forçados."
+  },
+  {
+    "numero": 17,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "Ao noticiar a prisão de um médico, um portal menciona que o suspeito \"já é culpado\" de fraude. À luz da Declaração Universal dos Direitos Humanos (DUDH), esta afirmação viola o direito de",
+    "opcoes": {
+      "A": "acesso à informação.",
+      "B": "liberdade de pensamento.",
+      "C": "presunção de inocência e garantias de defesa em julgamento público.",
+      "D": "obter asilo em caso de perseguição política."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A presunção de inocência é um direito fundamental protegido pela DUDH, sendo violada ao afirmar que alguém 'já é culpado' antes do julgamento."
+  },
+  {
+    "numero": 18,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "A Declaração Universal dos Direitos Humanos, proclamada pela Assembleia Geral das Nações Unidas em 1948, estabelece direitos fundamentais que devem ser garantidos a todas as pessoas. Acerca desse documento, assinale a alternativa correta.",
+    "opcoes": {
+      "A": "Estabelece que toda pessoa tem direito à propriedade, sendo vedada a propriedade coletiva em qualquer circunstância.",
+      "B": "Reconhece que toda pessoa tem direito à liberdade de pensamento, consciência e religião, mas não garante o direito de mudar de religião.",
+      "C": "Determina que toda pessoa tem direito à educação, que deve ser gratuita apenas no ensino fundamental.",
+      "D": "Prevê que toda pessoa tem direito a um padrão de vida capaz de assegurar a si e à sua família saúde e bem-estar, inclusive alimentação, vestuário, habitação, cuidados médicos e serviços sociais indispensáveis."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A DUDH reconhece o direito a um padrão de vida adequado, incluindo alimentação, habitação, vestuário e cuidados médicos como direitos fundamentais."
+  },
+  {
+    "numero": 19,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "De acordo com o Artigo 21 da Declaração Universal dos Direitos Humanos, todo ser humano tem direito à participação política. O artigo trata da importância da vontade popular e do acesso igualitário ao serviço público. Sobre esse direito, analise as afirmativas abaixo: I. A vontade do povo será a base da autoridade do governo; essa vontade será expressa em eleições periódicas e legítimas, por sufrágio universal, por voto secreto ou processo equivalente que assegure a liberdade de voto. II. Apenas os cidadãos com ensino superior completo podem votar e ser eleitos. III. O acesso ao serviço público deve ser restrito aos nascidos no país. É CORRETO o que se afirma em:",
+    "opcoes": {
+      "A": "III apenas.",
+      "B": "I e III apenas.",
+      "C": "I e II apenas.",
+      "D": "I apenas."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "Apenas a afirmativa I está correta. A DUDH garante sufrágio universal sem restrições de escolaridade e não restringe serviço público por nacionalidade."
+  },
+  {
+    "numero": 20,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "De acordo com a Declaração Universal dos Direitos Humanos (ONU, 1948), analise as assertivas abaixo, assinalando V, se verdadeiras, ou F, se falsas. ( ) Todos são iguais perante a lei e têm direito, sem qualquer distinção, a igual proteção da lei. ( ) Nem todo ser humano tem deveres para com a comunidade, dado que independe dela o desenvolvimento de sua personalidade. ( ) O Estado é o núcleo natural e fundamental da sociedade, e o indivíduo só tem direito à proteção quando integrado a este. ( ) Todo ser humano tem direito a repouso e lazer, inclusive a limitação razoável das horas de trabalho e a férias remuneradas periódicas. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+    "opcoes": {
+      "A": "V – F – F – V",
+      "B": "V – V – F – F",
+      "C": "F – F – V – V",
+      "D": "V – F – V – F"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "V (igualdade perante a lei); F (todos têm deveres para com a comunidade); F (a família é fundamental, não o Estado); V (direito ao repouso e lazer)."
+  },
+  {
+    "numero": 21,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "A Declaração Universal dos Direitos Humanos, em seu Artigo 23, assegura direitos fundamentais relacionados ao trabalho. O texto reconhece o direito ao emprego digno, à igualdade de remuneração e à organização sindical. Com base nesse Artigo, assinale a alternativa INCORRETA.",
+    "opcoes": {
+      "A": "Todo ser humano tem direito ao trabalho, mas pode ter seu acesso limitado por motivos religiosos.",
+      "B": "Todo ser humano tem direito ao trabalho, à livre escolha de emprego, a condições justas e favoráveis de trabalho e à proteção contra o desemprego.",
+      "C": "Todo ser humano, sem qualquer distinção, tem direito a igual remuneração por igual trabalho.",
+      "D": "Todo ser humano tem direito a organizar sindicatos e a neles ingressar para proteção de seus interesses."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "A alternativa A é incorreta. A DUDH não permite que o acesso ao trabalho seja limitado por motivos religiosos, pois isso violaria o direito universal ao trabalho."
+  },
+  {
+    "numero": 22,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "A Declaração Universal dos Direitos Humanos (DUDH) consiste em um marco fundamental na proteção da dignidade humana. No que se refere aos direitos previstos na Declaração, assinale a alternativa INCORRETA.",
+    "opcoes": {
+      "A": "Todo ser humano tem direito à vida, à liberdade e à segurança pessoal.",
+      "B": "Todos os seres humanos nascem livres e iguais em dignidade e direitos. São dotados de razão e consciência e devem agir em relação uns aos outros com espírito de fraternidade.",
+      "C": "Todo ser humano tem o dever de submeter-se a tratamento cruel ou degradante em situações excepcionais, desde que previsto em lei.",
+      "D": "Todo ser humano tem capacidade para gozar os direitos e as liberdades estabelecidos nesta Declaração, sem distinção de qualquer espécie, seja de raça, cor, sexo, língua, religião, opinião política ou de outra natureza, origem nacional ou social, riqueza, nascimento, ou qualquer outra condição."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A alternativa C é incorreta. A DUDH proíbe tratamento cruel ou degradante em qualquer circunstância, sem exceções, pois isso violaria a dignidade humana."
+  },
+  {
+    "numero": 23,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "A Declaração Universal dos Direitos Humanos foi adotada pela Organização das Nações Unidas (ONU) em 1948, com o objetivo de garantir a dignidade de todos os seres humanos. Qual dessas afirmações está de acordo com um dos princípios desta declaração?",
+    "opcoes": {
+      "A": "Todos têm direito à vida, à liberdade e à segurança pessoal.",
+      "B": "Todos têm o direito de trabalhar, mas sem garantias de um salário justo.",
+      "C": "Todos têm direito à educação, mas só até a conclusão do ensino médio.",
+      "D": "Todos têm direito à saúde, mas apenas com o pagamento de impostos elevados."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "A alternativa A está correta e expressa um dos princípios fundamentais da DUDH: o direito à vida, liberdade e segurança pessoal de todos."
+  },
+  {
+    "numero": 24,
+    "disciplina": "Direitos Humanos",
+    "questao": "Qual das alternativas abaixo descreve corretamente um princípio fundamental dos Direitos Humanos e da cidadania?",
+    "opcoes": {
+      "A": "Restringir direitos básicos, como liberdade de expressão, para grupos específicos da sociedade.",
+      "B": "Priorizar os interesses de um grupo social em detrimento de outros, para manter o equilíbrio político e econômico.",
+      "C": "Garantir a igualdade de direitos e o respeito à dignidade de todas as pessoas, independentemente de raça, gênero, religião ou condição social.",
+      "D": "Ignorar as necessidades de minorias, como pessoas com deficiência, em situação de rua ou refugiados, em políticas sociais e públicas."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A garantia de igualdade de direitos e respeito à dignidade de todas as pessoas é o princípio fundamental dos direitos humanos e cidadania."
+  },
+  {
+    "numero": 25,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "De acordo com a Declaração Universal dos Direitos Humanos, assinale a alternativa correta.",
+    "opcoes": {
+      "A": "O trabalho forçado é permitido como forma de punição para crimes leves.",
+      "B": "Toda pessoa tem direito a um julgamento justo e imparcial.",
+      "C": "A escravidão pode ser restabelecida em tempos de crise econômica.",
+      "D": "O direito de ir e vir é garantido apenas a cidadãos nacionais."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A DUDH garante o direito a julgamento justo e imparcial como direito fundamental de toda pessoa."
+  },
+  {
+    "numero": 26,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "À luz da Declaração Universal dos Direitos Humanos de 1948, assinale a alternativa INCORRETA.",
+    "opcoes": {
+      "A": "Todo ser humano tem direito à liberdade de pensamento, consciência e religião; esse direito inclui a liberdade de mudar de religião ou crença.",
+      "B": "Todo ser humano tem o direito de tomar parte no governo de seu país diretamente ou por intermédio de representantes livremente escolhidos.",
+      "C": "Todo ser humano tem o direito de participar livremente da vida cultural da comunidade, de fruir as artes e de participar do progresso científico.",
+      "D": "Todo ser humano tem direito de receber instrução gratuita nos graus elementares, fundamentais e superiores."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A alternativa D é incorreta. A DUDH garante instrução gratuita nos graus elementares e fundamentais, não necessariamente no superior."
+  },
+  {
+    "numero": 27,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "A Declaração Universal dos Direitos Humanos, de 10 de dezembro de 1948, representa um marco no âmbito dos direitos humanos ao estabelecer a proteção universal dos direitos humanos. Nessa linha, à luz da referida norma internacional, certo é que todo ser humano tem direito a:",
+    "opcoes": {
+      "A": "participação no governo do seu país",
+      "B": "escolha dos tribunais nacionais competentes",
+      "C": "igual remuneração por igual trabalho para certas etnias",
+      "D": "plena igualdade, exceto em casos de colapsos econômicos"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "A participação no governo é um direito político fundamental reconhecido pela DUDH, seja diretamente ou através de representantes."
+  },
+  {
+    "numero": 28,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "De acordo com a Declaração Universal dos Direitos Humanos de 1948, é correto afirmar que não constitui direito de todo ser humano o ______. Assinale a alternativa que preencha corretamente a lacuna.",
+    "opcoes": {
+      "A": "direito à propriedade",
+      "B": "direito à liberdade de pensamento, consciência e religião",
+      "C": "direito de proferir discursos de ódio e ataques à honra de outrem, desde que apoiado em ideologia",
+      "D": "direito à liberdade de opinião e expressão"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Discursos de ódio e ataques à honra não são direitos reconhecidos pela DUDH, pois violam direitos fundamentais de outros."
+  },
+  {
+    "numero": 29,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "De acordo com o artigo 1º da Declaração Universal dos Direitos Humanos de 1948 (ONU), todos os seres humanos nascem livres e iguais em dignidade e direitos, são dotados de razão e consciência e devem agir em relação uns aos outros com",
+    "opcoes": {
+      "A": "as liberdades estabelecidas.",
+      "B": "o sentimento de pertencimento.",
+      "C": "espírito de fraternidade.",
+      "D": "liberdade para manifestar sua crença"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O artigo 1º da DUDH estabelece que os seres humanos devem agir em relação uns aos outros com 'espírito de fraternidade'."
+  },
+  {
+    "numero": 30,
+    "disciplina": "Declaração Universal dos Direitos Humanos",
+    "questao": "De acordo com a Declaração Universal dos Direitos Humanos, todas as pessoas têm direito a um padrão de vida adequado. Com base nessa informação, assinale a alternativa correta.",
+    "opcoes": {
+      "A": "O direito à moradia, à alimentação e à saúde é um dever exclusivo do indivíduo, sem qualquer obrigação do Estado.",
+      "B": "O direito a um padrão de vida adequado inclui segurança social e proteção contra o desemprego.",
+      "C": "A proteção da maternidade e da infância não é considerada um direito humano essencial.",
+      "D": "O Estado não tem responsabilidade na garantia de condições dignas de trabalho."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A DUDH reconhece que o direito a um padrão de vida adequado inclui segurança social, proteção contra desemprego e condições dignas."
+  }
+]
